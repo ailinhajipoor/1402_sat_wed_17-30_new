@@ -1,0 +1,4 @@
+2pizza = 4
+1hotdog = 3
+1kapak = 4
+all = 11
